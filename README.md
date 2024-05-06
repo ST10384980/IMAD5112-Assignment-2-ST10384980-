@@ -9,3 +9,5 @@ before kicks it users back to the welcome page.
 
 Assignment 2 demonstration video link:  https://youtu.be/fA92rwR9H-Y
 
+Reference:
+2024. Introduction to Mobile Application developmetnt IMAD5112 manual. 
